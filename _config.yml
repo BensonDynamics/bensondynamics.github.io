@@ -16,20 +16,20 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+rtl                      : true# true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "BensonDynamics"
 title_separator          : "-"
 subtitle                 : "Rapid Prototyping and Electromechanical Work"# site tagline that appears below site title in masthead
 name                     : "Alexander Benson"
 description              : #"An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://bensondynamics.com"
+url                      : https://bensondynamics.com# the base hostname & protocol for your site e.g. "https://bensondynamics.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "bensondynamics"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
@@ -45,7 +45,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : github-dark# "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Benson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images_general/profile.png # path of avatar image
   bio              : "I am a mechanical engineer with a broad set of odd skills and hobbies, including modest proficiency with Python programming, motor design, and project management."
   location         : "Seattle, WA"
   email            : 
