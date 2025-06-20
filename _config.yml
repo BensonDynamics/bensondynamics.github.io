@@ -180,6 +180,7 @@ include: ["_pages"]
 
 include:
   - .htaccess
+  - docs/_portfolio
   
 exclude:
   - "*.sublime-project"
