@@ -21,8 +21,8 @@ title                    : "BensonDynamics"
 title_separator          : "-"
 subtitle                 : "Rapid Prototyping and Electromechanical Work"# site tagline that appears below site title in masthead
 name                     : "Alexander Benson"
-description              : #"An amazing website."
-url                      : https://bensondynamics.com# the base hostname & protocol for your site e.g. "https://bensondynamics.com"
+description              : "A personal website for documenting odd jobs and my portfolio"#"An amazing website."
+url                      : https://bensondynamics.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "bensondynamics"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -117,7 +117,7 @@ author:
   avatar           : /assets/images_general/profile.png # path of avatar image
   bio              : "I am a mechanical engineer with a broad set of odd skills and hobbies, including modest proficiency with Python programming, motor design, and project management."
   location         : "Seattle, WA"
-  email            : 
+  email            : "Alex@bensondynamics.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
