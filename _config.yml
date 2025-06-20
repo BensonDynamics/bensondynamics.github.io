@@ -178,8 +178,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages/
-    - portforlio.md/
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
