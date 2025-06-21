@@ -176,11 +176,10 @@ footer:
 
 
 # Reading Files
-include: ["_pages"]
 
 include:
   - .htaccess
-  - /_docs/
+  
   
 exclude:
   - "*.sublime-project"
@@ -341,3 +340,20 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/

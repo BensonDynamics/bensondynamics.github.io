@@ -5,9 +5,10 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+theme: dark
 ---
 
-A downloadable version can be found <a href = "/_docs/_portfolio/Alexander Benson_CV.pdf"> here.</a>
+A downloadable version can be found <a href = "portfolioDocuments/Alexander Benson_CV.pdf"> here.</a>
 
 # Skills
 - 6 years of manufacturing and assembly experience, including:
@@ -71,9 +72,9 @@ Tool Gauge (TG) | Tacoma, WA
 - Programmed complicated picking operations for tools with intricate cavities.
 - Challenged the status-quo where appropriate:
  
- <object data="/_docs/_portfolio/HMLV_Rev_1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/HMLV_Rev_1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/HMLV_Rev_1.pdf">Download PDF</a>.</p>
+ <object data="portfolioDocuments/HMLV_Rev_1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/HMLV_Rev_1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/HMLV_Rev_1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
  
@@ -168,34 +169,34 @@ Bellingham, WA
 
 ## On electric aerospace and superconducting motors:
 
-<object data="/_docs/_portfolio/eAero.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/eAero.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/eAero.pdf">Download PDF</a>.</p>
+<object data="portfolioDocuments/eAero.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/eAero.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/eAero.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## Simulating a Piezoelectric-Haptic MEMS Actuator in Low-Frequency Vibration
 
-<object data="/_docs/_portfolio/vibrations.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/vibrations.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/vibrations.pdf">Download PDF</a>.</p>
+<object data="portfolioDocuments/vibrations.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/vibrations.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/vibrations.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## Deployment of a Jupyterhub Server
 
-<object data="/_docs/_portfolio/Deployment of a Jupyterhub Server.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/Deployment of a Jupyterhub Server.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/Deployment of a Jupyterhub Server.pdf">Download PDF</a>.</p>
+<object data="portfolioDocuments/Deployment of a Jupyterhub Server.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/Deployment of a Jupyterhub Server.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/Deployment of a Jupyterhub Server.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 
 ## Optimization of a Flying Wing's Geometry
 
-<object data="/_docs/_portfolio/523proj.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/523proj.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/523proj.pdf">Download PDF</a>.</p>
+<object data="portfolioDocuments/523proj.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/523proj.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/523proj.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -204,9 +205,9 @@ Bellingham, WA
 
 This needs a little more introduction. The analysis used below resembles an FEA analysis, however it was computed by hand. The problem had a mesh provided, eliminating the most mathematically interesting part of an FEA process. 
 
-<object data="/_docs/_portfolio/566Proj.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/566Proj.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/566Proj.pdf">Download PDF</a>.</p>
+<object data="portfolioDocuments/566Proj.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/566Proj.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/566Proj.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -214,8 +215,8 @@ This needs a little more introduction. The analysis used below resembles an FEA 
 
 A review of a semi-neglected technology that may rise to prominence in our era of cheap photovoltaics and private space ventures.
 
-<object data="/_docs/_portfolio/beamedPower.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/_docs/_portfolio/beamedPower.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/_docs/_portfolio/beamedPower.pdf">Download PDF</a>.</p>
+<object data="portfolioDocuments/beamedPower.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="portfolioDocuments/beamedPower.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="portfolioDocuments/beamedPower.pdf">Download PDF</a>.</p>
     </embed>
 </object>
