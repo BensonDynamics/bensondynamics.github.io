@@ -10,8 +10,13 @@ theme: dark
 
 A downloadable version can be found <a href = "portfolioDocuments/Alexander Benson_CV.pdf"> here.</a>
 
+
+
 # Skills
-- 6 years of manufacturing and assembly experience, including:
+
+---
+
+- 8 years of manufacturing and assembly experience, including:
     - Composites
     - Machining
     - Automated bonding w. cobots
@@ -19,11 +24,6 @@ A downloadable version can be found <a href = "portfolioDocuments/Alexander Bens
     - 3D printing
     - Injection molding w. robots
     - Manual assembly and bonding
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/egUv1icA924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M4lCq8fC7hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Experience with Engineering Analysis:
     - Statistics: 
@@ -52,16 +52,43 @@ A downloadable version can be found <a href = "portfolioDocuments/Alexander Bens
 
 
 
-# Work Experience
+# Patents & Publications
 
 ---
 
+## 2024. The Transpolar Motor. 
+
+USPTO 63/668,775, filed 07/09/2024. Patent pending.
+
+## Simulating a Piezoelectric-Haptic MEMS Actuator in Low-Frequency Vibration
+
+Conference Paper, ASME IMECE, October 2022
+
+
+
+# Work Experience
+---
+## Instructor: CAD w. Surfaces and Simulation (SOLIDWORKS)
+*April 2025 – June 2025*
+
+**Western Washington University (WWU) | Bellingham, WA**
+- Rapidly gained expertise in SolidWorks Design & Simulation to meet a compressed timeline. 
+- Refined curriculum to fit students’ needs. 
+
+## Operations Support Supervisor
+*June 2022 – Present*
+
+**PACCAR: Kenworth Truck Division | Kirkland, WA**
+- Led engineering education from additive manufacturing to design for manufacturing (DFM).
+- Led a code-named supplier transfer and ensured compliance with PACCAR processes and safety regulations (FMVSS) while minimizing production disruptions.
+- Led DFM and 3D Printing groups while advancing the adoption of costing software.
+- Oversaw a high-performing team of manufacturing engineers who saved over $1.2M in Six-Sigma savings and submitted 6 Six-Sigma projects in 2022.
+- Wrote a Python script decoding PACCAR’s paint formulations for accurate paint costing. 
+
 ## Manufacturing Engineer
+*Jan 2017 – May 2022*
 
-Jan 2017 – Present
-
-Tool Gauge (TG) | Tacoma, WA
-
+**Tool Gauge (TG) | Tacoma, WA**
 - Established a reputation for high-quality work delivered ahead of schedule.
 - Ensured manufacturing compliance to Boeing specifications, AS9100 requirements, and OSHA robotic safety requirements (ANSI/RIA 15.06).
 - Utilized 3D (FDM) printers to produce on-demand fixtures, test processes, and reduce the cost of existing fixtures by over 50%.
@@ -78,40 +105,43 @@ Tool Gauge (TG) | Tacoma, WA
     </embed>
 </object>
  
+ <iframe width="250" height="150" src="https://www.youtube.com/embed/egUv1icA924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<iframe width="250" height="150" src="https://www.youtube.com/embed/M4lCq8fC7hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 ## Associate Civil Engineer
+*Jun 2016 – Aug 2016*
 
-Jun 2016 – Aug 2016
-
-City of Seattle | Seattle, WA
+**City of Seattle | Seattle, WA**
 - Facilitated project coordination and inter-department communication.
 - Developed procedures detecting conflicting projects in critical locations.
 - Managed and assisted communications between public and private industry stakeholders throughout the City of Seattle.
 
 ## Teaching Assistant: Computer Assisted Machining and Computer Assisted Design
+*Apr 2015 – Jun 2016*
 
-Apr 2015 – Jun 2016
-
-Western Washington University | Bellingham, WA
+**Western Washington University | Bellingham, WA**
 - Walked students through problem-solving methods when programming in G-Code, using CAD (CATIA V5), and CAM (CATIA V5 and Vericut).
 - Demonstrated troubleshooting abilities when evaluating and correcting G-Code and CAD models submitted by students.
 
-
 ## Student Tutor: Physics, Chemistry, Math, and Statistics
+*Sept 2013 – June 2016*
 
-Sept 2013 – June 2016
-
-Western Washington University | Bellingham, WA
+**Western Washington University | Bellingham, WA**
 - Educated students in technical subjects, primarily through problem-solving, intensive tutoring was possible when time allowed.
 - Collaborated with both supervising instructors and a team of my peers.
+
+
 
 # Volunteer Experience
 
 ---
 
 ## Chair, Society of Manufacturing Engineers
+*Jan 2021 – Present*
 
-Seattle Chapter 39, Jan 2021 – Present
+**Seattle Chapter 39**
 - Coordinated and directed monthly chapter meetings.
 - Managed chapter recovery during the Covid-19 pandemic.
 - Networked with local industry partners and organizations to arrange tours, contacts, and speaking events.
@@ -119,21 +149,24 @@ Seattle Chapter 39, Jan 2021 – Present
 - Led chapter executive infrastructure improvements.
 
 ## Chair-Elect, Society of Manufacturing Engineers
+*Oct 2019 – Jan 2021*
 
-Seattle Chapter 39, Oct 2019 – Jan 2021
+**Seattle Chapter 39**
 
- 
-## President, Society of Manufacturing Engineers: WWU Chapter
+## President, Society of Manufacturing Engineers
+*Jun 2015 – Jun 2016*
 
-Jun 2015 – Jun 2016 
+**Western Washington University Chapter**
 - Organized community events, groups for multiple competition entries, inter-club co-operation.
 - Facilitated the development of 3D printing maker space for the university engineering department.
+
+
 
 # Education
 
 ---
 
-## Saint Martin’s University (SMU), GPA 4.0    Grad: 8.2022, Anticipated
+## Saint Martin’s University (SMU), GPA 4.0    Grad: May 2024, Anticipated
 
 Lacey, WA
 
@@ -149,7 +182,7 @@ Methods for Improving the High-Speed Performance of an IPMSM for EV Applications
 - Finite Element Analysis (FEA)
 - Robotics
 
-## Western Washington University (WWU) GPA 3.25          Grad: 6.2016
+## Western Washington University ( GPA 3.25          Grad: June 2016
 
 Bellingham, WA
 
@@ -165,7 +198,10 @@ Bellingham, WA
 - Statistics with Calculus
 
 
+
 # Some examples of my course work, mid-masters:
+
+---
 
 ## On electric aerospace and superconducting motors:
 
