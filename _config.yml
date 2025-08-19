@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Benson"
-  avatar           : /assets/images_general/profile.png # path of avatar image
+  avatar           : /assets/images_general/profile.jpg # path of avatar image
   bio              : "I am a mechanical engineer with a broad set of odd skills and hobbies, including modest proficiency with Python programming, motor design, and project management."
   location         : "Seattle, WA"
   email            : "Alex@bensondynamics.com"
